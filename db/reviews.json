@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "reviews": ["The best boardgame!", "A classic."]
+  },
+  {
+    "id": "2",
+    "reviews": ["Hard to learn.", "Very nice!"]
+  },
+  {
+    "id": "3",
+    "reviews": ["I play it with my family."]
+  },
+  {
+    "id": "4",
+    "reviews": ["I didn't like it :(", "So nice!"]
+  },
+  {
+    "id": "5",
+    "reviews": ["A classic.", "I been playing it for 40 years."]
+  }
+]

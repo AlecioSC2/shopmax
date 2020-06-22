@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Settlers of Catan",
+    "description":"The incredibly popular, multi award winning civilization building board game of harvesting and trading resources.",
+    "price": 44.10,
+    "rating": 4.8,
+    "by": "Catan Studio",
+    "stock": 10
+  },
+  {
+    "id": "2",
+    "title": "Magic The Gathering Core Set 2020 Deck Builder’s Toolkit",
+    "description":"Countless paths to victory. Includes 4 booster packs, each with 15 magic cards. Pick your favorites, put them in your deck, and battle.",
+    "price": 25.79,
+    "rating": 4.9,
+    "by": "Magic The Gathering",
+    "stock": 4
+  },
+  {
+    "id": "3",
+    "title": "Ticket To Ride",
+    "description":"Connect iconic North American cities and build your train routes to earn points.",
+    "price": 44.92,
+    "rating": 4,
+    "by": "Days of Wonder",
+    "stock": 5
+  },
+  {
+    "id": "4",
+    "title": "Risk",
+    "description":"The Game of Strategic Conquest",
+    "price": 52.99,
+    "rating": 4.4,
+    "by": "Hasbro Gaming",
+    "stock": 23
+  },
+  {
+    "id": "5",
+    "title": "Family Classics Chess",
+    "description":"A two-player strategy game played on a checkered board with 64 squares arranged in an 8x8 grid",
+    "price": 11,
+    "rating": 5,
+    "by": "Pressman",
+    "stock": 0
+  }
+]
