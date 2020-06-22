@@ -1,0 +1,40 @@
+{
+  "name": "shopmax",
+  "version": "1.0.0",
+  "description": "Nova Server Example project.",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon index.js --debug"
+  },
+  "keywords": [
+    "nova",
+    "server",
+    "webserver",
+    "rest",
+    "api",
+    "expressjs",
+    "core",
+    "framework",
+    "examples"
+  ],
+  "author": {
+    "name": "Pablo Alecio",
+    "email": "paleciop@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.11.0",
+    "npm": ">=6.11.3"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "@palecio/nova-core": "^1.4.1",
+    "@palecio/nova-server": "^1.5.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "riteway": "^6.1.2",
+    "nodemon": "^2.0.4"
+  }
+}

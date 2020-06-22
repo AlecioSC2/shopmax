@@ -1,4 +1,4 @@
-const genericTranslateProperties = require('../../generic-context-processors/genericTranslateProperties');
+const genericTranslateProperties = require('../generic-context-processors/genericTranslateProperties');
 
 module.exports = genericTranslateProperties.extend({
   name: 'Translate Product Properties',
